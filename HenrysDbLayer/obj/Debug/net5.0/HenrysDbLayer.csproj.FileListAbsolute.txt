@@ -1,0 +1,15 @@
+C:\Users\henry.tamm\source\repos\Henrys DB\HenrysDbLayer\bin\Debug\net5.0\HenrysDbLayer.deps.json
+C:\Users\henry.tamm\source\repos\Henrys DB\HenrysDbLayer\bin\Debug\net5.0\HenrysDbLayer.dll
+C:\Users\henry.tamm\source\repos\Henrys DB\HenrysDbLayer\bin\Debug\net5.0\ref\HenrysDbLayer.dll
+C:\Users\henry.tamm\source\repos\Henrys DB\HenrysDbLayer\bin\Debug\net5.0\HenrysDbLayer.pdb
+C:\Users\henry.tamm\source\repos\Henrys DB\HenrysDbLayer\bin\Debug\net5.0\Henrys DB.dll
+C:\Users\henry.tamm\source\repos\Henrys DB\HenrysDbLayer\bin\Debug\net5.0\Henrys DB.pdb
+C:\Users\henry.tamm\source\repos\Henrys DB\HenrysDbLayer\obj\Debug\net5.0\HenrysDbLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry.tamm\source\repos\Henrys DB\HenrysDbLayer\obj\Debug\net5.0\HenrysDbLayer.AssemblyInfoInputs.cache
+C:\Users\henry.tamm\source\repos\Henrys DB\HenrysDbLayer\obj\Debug\net5.0\HenrysDbLayer.AssemblyInfo.cs
+C:\Users\henry.tamm\source\repos\Henrys DB\HenrysDbLayer\obj\Debug\net5.0\HenrysDbLayer.csproj.CoreCompileInputs.cache
+C:\Users\henry.tamm\source\repos\Henrys DB\HenrysDbLayer\obj\Debug\net5.0\HenrysDbLayer.csproj.CopyComplete
+C:\Users\henry.tamm\source\repos\Henrys DB\HenrysDbLayer\obj\Debug\net5.0\HenrysDbLayer.dll
+C:\Users\henry.tamm\source\repos\Henrys DB\HenrysDbLayer\obj\Debug\net5.0\ref\HenrysDbLayer.dll
+C:\Users\henry.tamm\source\repos\Henrys DB\HenrysDbLayer\obj\Debug\net5.0\HenrysDbLayer.pdb
+C:\Users\henry.tamm\source\repos\Henrys DB\HenrysDbLayer\obj\Debug\net5.0\HenrysDbLayer.csproj.AssemblyReference.cache
