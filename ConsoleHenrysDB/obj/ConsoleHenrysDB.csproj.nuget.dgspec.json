@@ -1,0 +1,221 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\henry.tamm\\source\\repos\\Henrys DB\\ConsoleHenrysDB\\ConsoleHenrysDB.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\henry.tamm\\source\\repos\\Henrys DB\\ConsoleHenrysDB\\ConsoleHenrysDB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\henry.tamm\\source\\repos\\Henrys DB\\ConsoleHenrysDB\\ConsoleHenrysDB.csproj",
+        "projectName": "ConsoleHenrysDB",
+        "projectPath": "C:\\Users\\henry.tamm\\source\\repos\\Henrys DB\\ConsoleHenrysDB\\ConsoleHenrysDB.csproj",
+        "packagesPath": "C:\\Users\\henry.tamm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\henry.tamm\\source\\repos\\Henrys DB\\ConsoleHenrysDB\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "\\\\Apollo\\Citrix User\\henry.tamm\\Anwendungsdaten\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\henry.tamm\\source\\repos\\Henrys DB\\Henrys DB\\Henrys DB.csproj": {
+                "projectPath": "C:\\Users\\henry.tamm\\source\\repos\\Henrys DB\\Henrys DB\\Henrys DB.csproj"
+              },
+              "C:\\Users\\henry.tamm\\source\\repos\\Henrys DB\\HenrysDbLayer\\HenrysDbLayer.csproj": {
+                "projectPath": "C:\\Users\\henry.tamm\\source\\repos\\Henrys DB\\HenrysDbLayer\\HenrysDbLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\henry.tamm\\source\\repos\\Henrys DB\\Henrys DB\\Henrys DB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\henry.tamm\\source\\repos\\Henrys DB\\Henrys DB\\Henrys DB.csproj",
+        "projectName": "Henrys DB",
+        "projectPath": "C:\\Users\\henry.tamm\\source\\repos\\Henrys DB\\Henrys DB\\Henrys DB.csproj",
+        "packagesPath": "C:\\Users\\henry.tamm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\henry.tamm\\source\\repos\\Henrys DB\\Henrys DB\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "\\\\Apollo\\Citrix User\\henry.tamm\\Anwendungsdaten\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\henry.tamm\\source\\repos\\Henrys DB\\HenrysDbLayer\\HenrysDbLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\henry.tamm\\source\\repos\\Henrys DB\\HenrysDbLayer\\HenrysDbLayer.csproj",
+        "projectName": "HenrysDbLayer",
+        "projectPath": "C:\\Users\\henry.tamm\\source\\repos\\Henrys DB\\HenrysDbLayer\\HenrysDbLayer.csproj",
+        "packagesPath": "C:\\Users\\henry.tamm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\henry.tamm\\source\\repos\\Henrys DB\\HenrysDbLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "\\\\Apollo\\Citrix User\\henry.tamm\\Anwendungsdaten\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\henry.tamm\\source\\repos\\Henrys DB\\Henrys DB\\Henrys DB.csproj": {
+                "projectPath": "C:\\Users\\henry.tamm\\source\\repos\\Henrys DB\\Henrys DB\\Henrys DB.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
